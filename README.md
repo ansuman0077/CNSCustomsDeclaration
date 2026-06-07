@@ -1,0 +1,3 @@
+The CNS Customs Declaration Service is a RESTful Web API built for CNS customers to digitally manage the customs declaration process for air cargo entering the UK.
+
+When a flight arrives at a UK airport, the cargo it carries must go through a customs clearance process. This service provides the tools to register incoming flights, declare the cargo onboard, and track each piece of cargo as it moves through the arrival and customs clearance workflow.
